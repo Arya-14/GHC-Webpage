@@ -1,0 +1,11 @@
+.hairTalkContainer{
+    display: flex;
+    overflow: scroll;
+    gap:2px;
+    padding: 0px;
+}
+.hairtxt{
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: 600;
+}

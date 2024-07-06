@@ -1,0 +1,21 @@
+.instagram{
+    display: flex;
+    background-color: black;
+    padding: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+.ad{
+    color: white;
+    font-weight: 500;
+    padding:0px 20px;
+    font-size: 15;
+}
+.socialmediaad{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.insta{
+    padding: 0px 10px;
+}

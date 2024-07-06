@@ -1,0 +1,52 @@
+.overviewContainer{
+    padding: 20px;
+    background-color: #EFEEFB;
+    display: flex;
+    margin: 30px 0;
+    justify-content: space-around;
+
+}
+.overview{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 13px;
+}
+.wellnessIcon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:15px;
+}
+.overWeight{
+    display: flex;
+    align-items:center ;
+    gap:15px;
+    padding-left: 10px;
+
+}
+.healthIcon{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 115px;
+    gap: 10px;
+    font-weight: 600;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: 700;
+}
+.weight{
+    font-size: 30px;
+    font-weight: 800;
+}
+.overWeightText{
+    color: #FA725F;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}

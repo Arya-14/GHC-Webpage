@@ -1,0 +1,11 @@
+.skinTalktxt{
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.skinTalkContainer{
+    display: flex;
+    overflow: scroll;
+    gap:2px;
+    padding: 10px;
+}

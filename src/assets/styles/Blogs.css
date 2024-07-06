@@ -1,0 +1,15 @@
+.logTitle{
+    font-size:22px;
+    margin-bottom: 15px;
+}
+.june{
+    font-weight: 900;
+}
+.myLogs{
+    display: flex;
+    justify-content: space-around;
+}
+.consult{
+    height: 75.01px;
+    width:75.01px;
+}

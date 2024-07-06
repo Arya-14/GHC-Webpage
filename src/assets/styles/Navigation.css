@@ -1,0 +1,23 @@
+.mynavigation{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.saturn{
+    height: 51px;
+    width:118px;
+}
+.cart{
+    height: 40px;
+    width: 36px;
+}
+@media screen and (min-width: 500px){
+    .saturn{
+        height: 100px;
+        width:240px;
+    }
+    .cart{
+        height: 80px;
+        width: 72px;
+    }
+}
